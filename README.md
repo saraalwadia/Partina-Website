@@ -10,11 +10,6 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
-
 ---
 
 ## Research Objectives
@@ -55,3 +50,4 @@ Partina demonstrates how modern technology and AI can facilitate social event pl
 1. Clone the repository:
    ```bash
    git clone https://github.com/saraalwadia/partina-website.git
+
